@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jubel George</h1>
 <h3 align="center">A passionate AIML Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/c6b51e48-7382-4246-a0af-5db5ac95fe0a">
+<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/c6b51e48-7382-4246-a0af-5db5ac95fe0a">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jubelgeorge115&label=Profile%20views&color=0e75b6&style=flat" alt="jubelgeorge115" /> </p>
