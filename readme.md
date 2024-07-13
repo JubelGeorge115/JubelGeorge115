@@ -11,8 +11,10 @@
 
 - 📫 How to reach me **05319011621.aiml@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Languages and Tools:</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <!-- Add other language and tool icons here -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
